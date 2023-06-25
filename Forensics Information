@@ -1,0 +1,12 @@
+PICO CTF 
+
+FORENSICS INFORMATION 10 POINTS 
+
+A IMAGE FILE IS GIVEN FIND THE METADATA
+
+Author: susie
+Description
+Files can always be changed in a secret way. Can you find the flag? cat.jpg
+
+TOOLS USED : GHEX 
+FIND THE FLAG CONVERT IT TO PROPER FORMAT
