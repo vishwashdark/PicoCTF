@@ -1,0 +1,19 @@
+Trivial Flag Transfer Protocol
+ | 90 points
+Tags: 
+AUTHOR: DANNY
+
+Description
+Figure out how they moved the flag.
+
+
+First extract all files using wireshark 
+analyze the files find a passcode 
+use a tool which u see in that files many times
+
+find the passcode 
+and find the flag 
+
+tools used wireshark binwalk steghide 
+
+rot
